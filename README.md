@@ -155,3 +155,7 @@ Botao: apenas exibe um botão.
 Formulario: apenas lida com o formulário.
 
 Essa separação facilita a manutenção e a escalabilidade do projeto.
+
+```bash 
+
+- [Componentização](https://github.com/valentinaoliveira/Alura-React-Typescript/tree/componentizacao/componentizacao)
