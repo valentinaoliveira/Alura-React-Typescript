@@ -12,10 +12,9 @@ Antes de iniciar, é necessário ter o **Node.js** e o **NPM** instalados em sua
 
 No terminal:
 
-```bash
 node -v     # Verifica a versão do Node.js
 npm -v      # Verifica a versão do NPM
-```bash
+
 Se os comandos não retornarem uma versão, significa que você precisa instalar o Node.js (o NPM será instalado junto).
 
 🛠 Criando o Projeto React
@@ -25,7 +24,7 @@ Utilizaremos o Create React App com TypeScript. Acesse a documentação oficial:
 
 No terminal, execute:
 
-bash
+
 Copiar
 Editar
 npx create-react-app my-app --template typescript
@@ -40,12 +39,12 @@ my-app: Nome da pasta do projeto.
 --template typescript: Gera o projeto com suporte ao TypeScript.
 
 Entrar no diretório do projeto:
-bash
+
 Copiar
 Editar
 cd my-app
 Iniciar o servidor local:
-bash
+
 Copiar
 Editar
 npm start
@@ -156,6 +155,6 @@ Formulario: apenas lida com o formulário.
 
 Essa separação facilita a manutenção e a escalabilidade do projeto.
 
-```bash 
+
 
 - [Componentização](https://github.com/valentinaoliveira/Alura-React-Typescript/tree/componentizacao/componentizacao)
