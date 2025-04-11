@@ -160,6 +160,7 @@ Essa separação facilita a manutenção e a escalabilidade do projeto.
 ## 🔗 Links úteis
 
 📘 Registro de Aprendizado do Curso
+
 À medida que avanço pelos módulos do curso, irei registrar aqui tudo o que estou aprendendo, bem como as alterações feitas nos códigos.
 
 Abaixo, você encontrará uma lista com os links de cada módulo, organizados em ordem numérica. Dentro de cada módulo estarão os arquivos correspondentes a cada aula, acompanhados de anotações sobre os principais aprendizados.
