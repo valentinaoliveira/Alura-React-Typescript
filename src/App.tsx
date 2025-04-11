@@ -1,12 +1,14 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Botao from './components/Button';
+import Formulario from './components/Formulario';
+import Lista from './components/Lista';
 
 function App() {
   return (
     <div className="App">
-          <Botao />
+          <Formulario />
+          <Lista />
     </div>
   );
 }
