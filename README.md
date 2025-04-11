@@ -159,4 +159,4 @@ Essa separação facilita a manutenção e a escalabilidade do projeto.
 
 ## 🔗 Links úteis
 
-- [Componentização](https://github.com/valentinaoliveira/Alura-React-Typescript/tree/componentizacao/componentizacao)
+- [Componentização](https://github.com/valentinaoliveira/Alura-React-Typescript/tree/feature/componentizacao/componentizacao)
