@@ -1,6 +1,6 @@
 import React from "react";
 import Botao from "../Button";
-import style from '../Formulario/formulario.module.scss';
+import style from '../Formulario/Formulario.module.scss';
 
 
 class Formulario extends React.Component{
@@ -29,7 +29,9 @@ class Formulario extends React.Component{
                     max="01:30:00"
                     required />
                 </div>
-                <Botao />
+                <Botao>
+                    Adicionar
+                </Botao>
             </form>
         )
     }
