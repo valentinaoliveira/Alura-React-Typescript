@@ -4,6 +4,7 @@ import logo from './logo.svg';
 import Formulario from '../components/Formulario';
 import Lista from '../components/Lista';
 import style from  '../pages/App.module.scss';
+import { Cronometro } from '../components/Cronometro';
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
     <div className={style.AppStyle}>
           <Formulario />
           <Lista />
+          <Cronometro />
     </div>
   );
 }
