@@ -200,10 +200,5 @@ export default function Relogio() {
 - Botão reutilizado com sucesso
 
 Mas **ainda está tudo estático**!  
-Na próxima etapa vamos:
-
-- Adicionar tarefas com o formulário
-- Selecionar itens da lista
-- Iniciar o cronômetro de verdade 🧠⏱️
 
 
